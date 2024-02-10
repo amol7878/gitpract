@@ -5,12 +5,18 @@ git push
 
 
 
-git status
-git diff
+
 
 git log-- all commits
 
 git show HEAD--latest commit
+
+git status
+git diff
+
+git checkout HEAD filrname---> Making Working Directory same last Commit
+git reset HEAD filename ---> Making Staging as last commit
+git reset 49f862a
 
 
 
